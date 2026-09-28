@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32729235/README.md)
 ![header](https://64.media.tumblr.com/8491a07418ae9607282abd3ba759480e/56878bd0aea7b65b-ed/s2048x3072/4e9012fcecc7501349400dd7d2c4185f068b3a96.pnj)
 
 # Movimiento y dirección de 2 motores
